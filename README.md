@@ -10,6 +10,8 @@
 
 ## GENERAL INFORMATION
 
+A portfolio website that will host React projects. 
+
 <a href="https://ibb.co/YQWKc0d"><img src="https://i.ibb.co/NC3k9TN/Screenshot-2022-12-29-at-11-51-52-PM.png" alt="Screenshot-2022-12-29-at-11-51-52-PM" border="0"></a>
 
 
