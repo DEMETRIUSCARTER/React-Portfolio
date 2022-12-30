@@ -21,7 +21,7 @@ This application is currently not functioning properly as I am unable to get the
 
 
 ## WEBSITE LINK
-https://bright-malabi-acc079.netlify.app/
+https://demetriuscarter.github.io/React-Portfolio/
 
 
 
