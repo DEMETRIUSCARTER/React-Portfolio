@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "homepage": "https://github.com/DEMETRIUSCARTER/React-Portfolio"
+  "homepage": "https://github.com/DEMETRIUSCARTER/React-Portfolio",
   "author": "",
   "license": "ISC",
   "dependencies": {
